@@ -10,3 +10,5 @@ DogBreeds is an application that provides basic information about dog breeds and
 * Knowing the the breed’s reliably
 * Easy to use
 
+### Made by
+Francisco and Flores

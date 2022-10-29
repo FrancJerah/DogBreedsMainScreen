@@ -12,7 +12,8 @@ DogBreeds is an application that provides basic information about dog breeds and
 * Easy to use
 
 ## Installation
-
+Download DogBreeds MainScreen.apk
+Minimum Android Version: 5.0+
 
 ## Minor Changes
 GridLayout elements in main dashboard screen contain no rounded-corner squares for compliance in instruction: Images (for thumbnails, must be square)

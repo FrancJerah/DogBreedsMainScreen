@@ -11,6 +11,9 @@ DogBreeds is an application that provides basic information about dog breeds and
 * Knowing the the breed’s reliably
 * Easy to use
 
+## Installation
+
+
 ## Minor Changes
 GridLayout elements in main dashboard screen contain no rounded-corner squares for compliance in instruction: Images (for thumbnails, must be square)
 

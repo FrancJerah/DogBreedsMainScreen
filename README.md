@@ -1,5 +1,5 @@
 # DogBreeds MainScreen
-This is the main screen version of the app DogBreeds. This project only contains the app's logo, and the main screen itself -- there is no app audio and splash screen upon launch. <br />
+This is the main screen version of the app DogBreeds. This project only contains the app's logo, and the main screen itself -- there is no app audio and splash screen upon launch. <br /> <br /> 
 You can access the main repo of the app link -- https://github.com/FrancJerah/DogBreeds
 
 ## About DogBreeds

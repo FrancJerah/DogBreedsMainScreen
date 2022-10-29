@@ -20,7 +20,7 @@ GridLayout elements in main dashboard screen contain no rounded-corner squares f
  * Images (for thumbnails, must be square)
  ![image](https://user-images.githubusercontent.com/108663786/198813429-5516113c-498d-488f-b6a8-c0ce72211825.png) <br />
  
- * MainScreen Dashboard
+ * MainScreen Dashboard <br />
  ![image](https://user-images.githubusercontent.com/108663786/198813581-ddcd4cec-f1f3-4a5a-8cac-71cf013f0dae.png)
 
 
